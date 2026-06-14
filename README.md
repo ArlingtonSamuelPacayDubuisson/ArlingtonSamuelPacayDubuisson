@@ -60,5 +60,5 @@ Automatizo pruebas con **Cypress** (E2E y API), construyo pipelines **DevSecOps*
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlington-samuel-p-451568142/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pacaysamuel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arlington%20Samuel%20Pacay-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlington-samuel-p-451568142/)
+[![Email](https://img.shields.io/badge/pacaysamuel@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pacaysamuel@gmail.com)
