@@ -44,9 +44,12 @@ Automatizo pruebas con **Cypress** (E2E y API), construyo pipelines **DevSecOps*
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [cypress-framework](https://github.com/ArlingtonSamuelPacayDubuisson/cypress-framework) | Framework de automatización E2E + API con Page Objects, comandos custom, Docker y CI | Cypress · TypeScript · Docker |
-| Punto de venta (producción) | Sistema POS con ventas, inventario y reparaciones · MFA y hardening en DigitalOcean | Node.js · MySQL · Cloudflare |
+| [jenkins-devsecops-pipeline](https://github.com/ArlingtonSamuelPacayDubuisson/jenkins-devsecops-pipeline) | Pipeline DevSecOps con SAST, SCA, escaneo de imagen, DAST y Security Gate | Jenkins · Docker · OWASP ZAP |
+| [qa-management-workflow](https://github.com/ArlingtonSamuelPacayDubuisson/qa-management-workflow) | Gestión QA: plan de testing, matriz de trazabilidad y plantillas | GitHub Projects · Markdown |
+| Punto de venta (producción) | Sistema POS con ventas, inventario y reparaciones · MFA y hardening | Node.js · MySQL · Cloudflare |
 
-> Roadmap: `jenkins-devsecops-pipeline`, `cypress-e2e-suite`, `qa-management-workflow`.
+> Roadmap: `cypress-e2e-suite`, `api-testing-postman`.
+
 
 ## GitHub Stats
 
